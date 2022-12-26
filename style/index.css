@@ -107,10 +107,7 @@ li{
 .icon-box>h5{
     margin-top: 0%;
 }
-.icon-box{
-    height: 160px;
-    width: 150px;
-}
+
 .icon-box>h5>a:hover{
     color: red;
 }
