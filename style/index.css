@@ -170,10 +170,6 @@ footer p{
     width: 12px;
     height: 12px;
 }
-#webtis{
-    
-}
-
 @media only screen and (max-width: 640px){
     .video{
         column-count: 1;
@@ -233,7 +229,7 @@ footer p{
         margin: 20% 0 0 0;
     }
 }
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 420px){
     .logo{
         width: 30%;
         margin: 1% 0 0 1%;
@@ -243,17 +239,18 @@ footer p{
     }
     #webtis{
         margin-top: 20%;
+        margin-bottom: 60%;
     }
     .row{
         margin: 0 10% 0 10%;
     }
     #especificaciones{
         margin-top: 40%;
-        margin-bottom: 50%;
+        margin-bottom: 60%;
     }
     #videos{
         margin-top: 40%;
-        margin-bottom: 50%;
+        margin-bottom: 60%;
     }
     .resume-item{
         height: 150px;
