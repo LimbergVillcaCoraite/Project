@@ -321,4 +321,7 @@ footer p{
         height: 25px;
         width: 25px;
     }
+    .section-title{
+        margin: 0 5% 0 5%;
+    }
 }
